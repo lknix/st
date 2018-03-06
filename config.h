@@ -1,5 +1,5 @@
 /* See LICENSE file for copyright and license details. */
-#define histsize 3000
+#define histsize 10000
 
 /*
  * appearance
