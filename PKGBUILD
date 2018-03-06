@@ -19,7 +19,7 @@ _patches=(st-scrollback-$pkgver.diff
          )
 
 md5sums=('29b2a599cf1511c8062ed8f025c84c63'
-         'ef38af46bf1afcbd92f8fe5ff5db7c4e'
+         'f6e339677c0af811e66571fa4de96b6f'
          'c55076d94247e121a1a86d32a793cf2e'
          '8ff8a77b34dfc09a4dd0d2cf876d68e7')
 
